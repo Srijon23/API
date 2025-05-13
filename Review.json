@@ -1,0 +1,29 @@
+{
+  "reviews": [
+    {
+      "name": "Emily R.",
+      "image": "https://example.com/images/users/emily.jpg",
+      "review": "Eternal Bloom has become my go-to fragrance! Light, floral, and lasts all day without being overpowering."
+    },
+    {
+      "name": "David L.",
+      "image": "https://example.com/images/users/david.jpg",
+      "review": "Midnight Ember is absolutely stunning. It gives off such a luxurious, smoky vibe. Great for date nights."
+    },
+    {
+      "name": "Sophia M.",
+      "image": "https://example.com/images/users/sophia.jpg",
+      "review": "Citrus Whisper is so fresh and energizing. I use it every morning before work—it wakes me right up!"
+    },
+    {
+      "name": "James T.",
+      "image": "https://example.com/images/users/james.jpg",
+      "review": "Spiced Horizon has an exotic charm to it. The spice blend is rich without being too much. Perfect for cooler months."
+    },
+    {
+      "name": "Olivia K.",
+      "image": "https://example.com/images/users/olivia.jpg",
+      "review": "Velvet Musk is soft and romantic. I’ve received so many compliments since I started wearing it!"
+    }
+  ]
+}
